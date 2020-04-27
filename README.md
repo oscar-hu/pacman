@@ -1,5 +1,5 @@
 # Pac-man
-Classic pac-man coded in Lua language
+Classic pac-man coded in Lua language. Originally created to be compatible with RetroPie hardware on a custom built "arcade machine." 
 
 -----------------
 
